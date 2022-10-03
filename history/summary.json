@@ -2,7 +2,7 @@
   {
     "name": "Datenwerkbank",
     "url": "https://www.datenwerkbank.de",
-    "icon": "https://favicons.githubusercontent.com/www.datenwerkbank.de",
+    "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 974,
-    "timeWeek": 810,
-    "timeMonth": 884,
-    "timeYear": 884,
+    "time": 888,
+    "timeDay": 978,
+    "timeWeek": 840,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {}
   }
 ]
