@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1323,
-    "timeDay": 683,
-    "timeWeek": 2445,
-    "timeMonth": 1608,
-    "timeYear": 1323,
-    "dailyMinutesDown": {
-      "2022-11-03": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1309,
+    "timeDay": 574,
+    "timeWeek": 2434,
+    "timeMonth": 1592,
+    "timeYear": 1309,
+    "dailyMinutesDown": {}
   }
 ]
