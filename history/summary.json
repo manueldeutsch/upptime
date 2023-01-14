@@ -4,19 +4,19 @@
     "url": "https://www.datenwerkbank.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2674,
-    "timeDay": 2044,
-    "timeWeek": 5741,
-    "timeMonth": 3849,
-    "timeYear": 2674,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2660,
+    "timeDay": 1492,
+    "timeWeek": 5141,
+    "timeMonth": 3758,
+    "timeYear": 2660,
     "dailyMinutesDown": {
-      "2023-01-14": 0
+      "2023-01-14": 18
     }
   }
 ]
