@@ -4,7 +4,7 @@
     "url": "https://www.datenwerkbank.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,11 @@
     "uptimeYear": "99.98%",
     "time": 2022,
     "timeDay": 608,
-    "timeWeek": 1646,
+    "timeWeek": 1736,
     "timeMonth": 1334,
     "timeYear": 2022,
     "dailyMinutesDown": {
+      "2023-05-31": 0,
       "2023-05-21": 17,
       "2023-02-08": 26,
       "2023-01-14": 18
