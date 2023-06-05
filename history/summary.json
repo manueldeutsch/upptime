@@ -27,19 +27,19 @@
     "url": "https://www.oneresource.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.oneresource.com.ico",
     "slug": "oneresource",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1809,
-    "timeDay": 1502,
-    "timeWeek": 1925,
-    "timeMonth": 1791,
-    "timeYear": 1809,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1799,
+    "timeDay": 1433,
+    "timeWeek": 1855,
+    "timeMonth": 1778,
+    "timeYear": 1799,
     "dailyMinutesDown": {
-      "2023-06-05": 0
+      "2023-06-05": 5
     }
   }
 ]
