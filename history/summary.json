@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 2002,
-    "timeDay": 728,
-    "timeWeek": 1201,
-    "timeMonth": 1216,
-    "timeYear": 2002,
+    "time": 1999,
+    "timeDay": 1280,
+    "timeWeek": 1259,
+    "timeMonth": 1233,
+    "timeYear": 1999,
     "dailyMinutesDown": {
       "2023-06-03": 20,
       "2023-05-21": 17,
@@ -28,18 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oneresource.com.ico",
     "slug": "oneresource",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1799,
-    "timeDay": 1433,
-    "timeWeek": 1855,
-    "timeMonth": 1778,
-    "timeYear": 1799,
-    "dailyMinutesDown": {
-      "2023-06-05": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1801,
+    "timeDay": 1623,
+    "timeWeek": 1826,
+    "timeMonth": 1775,
+    "timeYear": 1801,
+    "dailyMinutesDown": {}
   }
 ]
