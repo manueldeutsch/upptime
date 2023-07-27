@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 1764,
     "timeDay": 775,
-    "timeWeek": 1422,
+    "timeWeek": 1099,
     "timeMonth": 1016,
     "timeYear": 1764,
     "dailyMinutesDown": {
@@ -28,9 +28,9 @@
     "url": "https://www.oneresource.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.oneresource.com.ico",
     "slug": "oneresource",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -40,6 +40,7 @@
     "timeMonth": 1898,
     "timeYear": 1825,
     "dailyMinutesDown": {
+      "2023-07-27": 0,
       "2023-07-13": 22
     }
   }
