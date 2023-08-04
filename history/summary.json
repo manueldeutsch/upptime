@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1743,
-    "timeDay": 550,
-    "timeWeek": 667,
-    "timeMonth": 1032,
-    "timeYear": 1743,
+    "time": 1740,
+    "timeDay": 511,
+    "timeWeek": 642,
+    "timeMonth": 1024,
+    "timeYear": 1740,
     "dailyMinutesDown": {
       "2023-07-25": 28,
       "2023-06-03": 20,
@@ -34,13 +34,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1845,
-    "timeDay": 1857,
-    "timeWeek": 2007,
-    "timeMonth": 1981,
-    "timeYear": 1845,
+    "time": 1843,
+    "timeDay": 1780,
+    "timeWeek": 1969,
+    "timeMonth": 1973,
+    "timeYear": 1843,
     "dailyMinutesDown": {
       "2023-07-13": 22
     }
+  },
+  {
+    "name": "Kaarisma",
+    "url": "https://www.kaarisma.de",
+    "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
+    "slug": "kaarisma",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 737,
+    "timeDay": 737,
+    "timeWeek": 737,
+    "timeMonth": 737,
+    "timeYear": 737,
+    "dailyMinutesDown": {}
   }
 ]
