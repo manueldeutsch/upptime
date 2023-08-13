@@ -32,12 +32,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1890,
     "timeDay": 2082,
     "timeWeek": 2334,
-    "timeMonth": 2135,
+    "timeMonth": 2063,
     "timeYear": 1890,
     "dailyMinutesDown": {
       "2023-07-13": 22
@@ -48,9 +48,9 @@
     "url": "https://www.kaarisma.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +59,8 @@
     "timeWeek": 1195,
     "timeMonth": 1115,
     "timeYear": 1115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-13": 0
+    }
   }
 ]
