@@ -13,7 +13,7 @@
     "time": 1650,
     "timeDay": 1406,
     "timeWeek": 784,
-    "timeMonth": 874,
+    "timeMonth": 883,
     "timeYear": 1650,
     "dailyMinutesDown": {
       "2023-07-25": 28,
@@ -28,18 +28,19 @@
     "url": "https://www.oneresource.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.oneresource.com.ico",
     "slug": "oneresource",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 1914,
     "timeDay": 3018,
     "timeWeek": 2100,
-    "timeMonth": 2111,
+    "timeMonth": 2122,
     "timeYear": 1914,
     "dailyMinutesDown": {
+      "2023-09-04": 0,
       "2023-08-20": 40,
       "2023-07-13": 22
     }
@@ -58,7 +59,7 @@
     "time": 1073,
     "timeDay": 1655,
     "timeWeek": 1022,
-    "timeMonth": 1073,
+    "timeMonth": 1083,
     "timeYear": 1073,
     "dailyMinutesDown": {}
   }
