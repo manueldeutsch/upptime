@@ -54,19 +54,19 @@
     "url": "https://www.kaarisma.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1132,
-    "timeDay": 0,
-    "timeWeek": 1036,
-    "timeMonth": 1017,
-    "timeYear": 1132,
+    "time": 1130,
+    "timeDay": 853,
+    "timeWeek": 1009,
+    "timeMonth": 1012,
+    "timeYear": 1130,
     "dailyMinutesDown": {
-      "2024-01-08": 0
+      "2024-01-08": 5
     }
   }
 ]
