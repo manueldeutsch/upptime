@@ -56,17 +56,15 @@
     "slug": "kaarisma",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1130,
     "timeDay": 853,
     "timeWeek": 1009,
     "timeMonth": 1012,
     "timeYear": 1130,
-    "dailyMinutesDown": {
-      "2024-01-08": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
