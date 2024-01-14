@@ -6,17 +6,16 @@
     "slug": "datenwerkbank",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1496,
-    "timeDay": 736,
-    "timeWeek": 2806,
-    "timeMonth": 1677,
-    "timeYear": 1212,
+    "timeDay": 1041,
+    "timeWeek": 2854,
+    "timeMonth": 1696,
+    "timeYear": 1211,
     "dailyMinutesDown": {
-      "2024-01-13": 7,
       "2023-10-12": 19,
       "2023-09-24": 29,
       "2023-09-19": 25,
@@ -24,8 +23,7 @@
       "2023-07-25": 28,
       "2023-06-03": 20,
       "2023-05-21": 17,
-      "2023-02-08": 26,
-      "2023-01-14": 18
+      "2023-02-08": 26
     }
   },
   {
@@ -40,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1967,
-    "timeDay": 1830,
-    "timeWeek": 2133,
-    "timeMonth": 1953,
+    "timeDay": 1883,
+    "timeWeek": 2091,
+    "timeMonth": 1961,
     "timeYear": 1967,
     "dailyMinutesDown": {
       "2023-09-04": 104,
@@ -61,11 +59,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1131,
-    "timeDay": 895,
-    "timeWeek": 1128,
-    "timeMonth": 1034,
-    "timeYear": 1131,
+    "time": 1130,
+    "timeDay": 952,
+    "timeWeek": 1134,
+    "timeMonth": 1040,
+    "timeYear": 1130,
     "dailyMinutesDown": {}
   }
 ]
