@@ -9,6 +9,10 @@ sites:
     url: https://www.oneresource.com
   - name: Kaarisma
     url: https://www.kaarisma.de
+  - name: Karlsruher Kind
+    url: https://www.karlsruher-kind.de
+  - name: forstory
+    url: https://www.forstory.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
