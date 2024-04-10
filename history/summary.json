@@ -13,8 +13,8 @@
     "time": 1155,
     "timeDay": 824,
     "timeWeek": 806,
-    "timeMonth": 776,
-    "timeYear": 1094,
+    "timeMonth": 778,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2024-03-22": 24,
       "2024-02-14": 28,
@@ -56,9 +56,9 @@
     "url": "https://www.kaarisma.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.84%",
@@ -68,6 +68,7 @@
     "timeMonth": 977,
     "timeYear": 1083,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-03-20": 509,
       "2024-03-19": 59
     }
@@ -78,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3781,
-    "timeDay": 1291,
+    "timeDay": 1248,
     "timeWeek": 3781,
     "timeMonth": 3781,
     "timeYear": 3781,
-    "dailyMinutesDown": {
-      "2024-04-10": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "forstory",
