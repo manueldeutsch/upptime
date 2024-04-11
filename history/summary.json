@@ -77,19 +77,19 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 4778,
-    "timeDay": 5770,
-    "timeWeek": 4778,
-    "timeMonth": 4778,
-    "timeYear": 4778,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 4699,
+    "timeDay": 5583,
+    "timeWeek": 4699,
+    "timeMonth": 4699,
+    "timeYear": 4699,
     "dailyMinutesDown": {
-      "2024-04-11": 16
+      "2024-04-11": 21
     }
   },
   {
