@@ -1,7 +1,7 @@
 url: https://www.karlsruher-kind.de
-status: up
-code: 200
-responseTime: 890
-lastUpdated: 2024-04-12T08:49:00.322Z
+status: down
+code: 500
+responseTime: 10785
+lastUpdated: 2024-04-12T09:19:24.624Z
 startTime: 2024-04-05T09:33:42.435Z
 generator: Upptime <https://github.com/upptime/upptime>
