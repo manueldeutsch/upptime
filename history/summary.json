@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
     "time": 3698,
     "timeDay": 1095,
     "timeWeek": 1210,
@@ -102,19 +102,19 @@
     "url": "https://www.forstory.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.forstory.de.ico",
     "slug": "forstory",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 698,
     "timeDay": 666,
     "timeWeek": 718,
     "timeMonth": 698,
     "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-05-01": 6
+      "2024-05-01": 0
     }
   }
 ]
