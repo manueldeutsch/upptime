@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
-    "time": 999,
-    "timeDay": 595,
-    "timeWeek": 856,
-    "timeMonth": 796,
-    "timeYear": 1036,
+    "time": 1006,
+    "timeDay": 4563,
+    "timeWeek": 1409,
+    "timeMonth": 922,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-09-26": 73,
       "2024-09-08": 28,
@@ -22,8 +22,7 @@
       "2024-07-01": 3,
       "2024-03-22": 24,
       "2024-02-14": 28,
-      "2024-02-02": 18,
-      "2023-10-12": 19
+      "2024-02-02": 18
     }
   },
   {
@@ -37,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1938,
-    "timeDay": 1557,
-    "timeWeek": 1339,
-    "timeMonth": 1369,
-    "timeYear": 1903,
+    "time": 1936,
+    "timeDay": 849,
+    "timeWeek": 1266,
+    "timeMonth": 1348,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2024-01-15": 53
     }
@@ -57,9 +56,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1327,
-    "timeDay": 820,
-    "timeWeek": 988,
+    "time": 1326,
+    "timeDay": 778,
+    "timeWeek": 945,
     "timeMonth": 1056,
     "timeYear": 1366,
     "dailyMinutesDown": {
@@ -81,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 2067,
-    "timeDay": 1092,
-    "timeWeek": 2527,
-    "timeMonth": 1566,
-    "timeYear": 2067,
+    "time": 2076,
+    "timeDay": 4242,
+    "timeWeek": 2260,
+    "timeMonth": 1670,
+    "timeYear": 2076,
     "dailyMinutesDown": {
       "2024-06-19": 144,
       "2024-04-29": 77,
@@ -106,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 763,
-    "timeDay": 636,
-    "timeWeek": 741,
-    "timeMonth": 784,
-    "timeYear": 763,
+    "time": 762,
+    "timeDay": 561,
+    "timeWeek": 719,
+    "timeMonth": 781,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2024-05-01": 19
     }
