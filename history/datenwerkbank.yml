@@ -1,7 +1,7 @@
 url: https://www.datenwerkbank.de
-status: up
-code: 200
-responseTime: 811
-lastUpdated: 2024-10-24T04:54:26.507Z
+status: down
+code: 502
+responseTime: 820
+lastUpdated: 2024-10-24T05:08:48.209Z
 startTime: 2022-09-15T09:44:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
