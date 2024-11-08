@@ -13,11 +13,11 @@ sites:
     url: https://www.kaarisma.de
   - name: Fingolex
     url: https://fingolex.com
- - name: Jerrit
+  - name: Jerrit
     url: https://www.jerritpeinelt.com
- - name: Kinderladen
+  - name: Kinderladen
     url: https://www.kinderladen.org
- - name: Annette Kuhls
+  - name: Annette Kuhls
     url: https://www.annettekuhls.de
   - name: IBB
     url: https://ibb-woern.de
