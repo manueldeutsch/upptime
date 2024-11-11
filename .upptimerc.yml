@@ -46,7 +46,7 @@ status-website:
       href: https://www.datenwerkbank.de
     - title: Support
       href: mailto:werkstatt@datenwerkbank.de
-  css: ":root { --body-background-color: #F7F4F1; --nav-current-border-bottom-color: #715C47; }"
+  css: ":root { --body-background-color: #F7F4F1; --nav-current-border-bottom-color: #715C47; } .logo div { font-weight: 500; text-transform: uppercase; letter-spacing: 1px; color: #4B5C67; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
