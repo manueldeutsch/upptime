@@ -170,19 +170,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibb-woern.de.ico",
     "slug": "ibb",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 857,
     "timeDay": 908,
     "timeWeek": 857,
     "timeMonth": 857,
     "timeYear": 857,
-    "dailyMinutesDown": {
-      "2024-11-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Karlsruher Kind",
