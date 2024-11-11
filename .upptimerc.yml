@@ -35,6 +35,7 @@ status-website:
   cname: status.datenwerkbank.de
   logoUrl: https://www.datenwerkbank.de/apple-touch-icon.png
   favicon: https://www.datenwerkbank.de/favicon.ico
+  theme: light
   name: Datenwerkbank
   introTitle: "**Datenwerkbank** uptime monitor and status page."
   introMessage: "Statusseite zur Überwachung der Erreichbarkeit und Verfügbarkeit von Webseiten."
