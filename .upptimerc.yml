@@ -15,18 +15,10 @@ sites:
     url: https://fingolex.com
   - name: Jerrit
     url: https://www.jerritpeinelt.com
-  - name: Kinderladen
-    url: https://www.kinderladen.org
-  - name: Annette Kuhls
-    url: https://www.annettekuhls.de
   - name: IBB
     url: https://ibb-woern.de
   - name: Karlsruher Kind
     url: https://www.karlsruher-kind.de
-  - name: oneresource
-    url: https://www.oneresource.com
-  - name: forstory
-    url: https://www.forstory.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
