@@ -13,8 +13,8 @@
     "time": 1030,
     "timeDay": 7494,
     "timeWeek": 2052,
-    "timeMonth": 1533,
-    "timeYear": 1046,
+    "timeMonth": 1553,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2024-10-25": 111,
       "2024-10-24": 104,
@@ -129,9 +129,9 @@
     "url": "https://ibb-woern.de",
     "icon": "https://icons.duckduckgo.com/ip3/ibb-woern.de.ico",
     "slug": "ibb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -140,7 +140,9 @@
     "timeWeek": 931,
     "timeMonth": 892,
     "timeYear": 892,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-28": 0
+    }
   },
   {
     "name": "Karlsruher Kind",
