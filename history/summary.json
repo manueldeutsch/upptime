@@ -13,7 +13,7 @@
     "time": 1149,
     "timeDay": 9945,
     "timeWeek": 5596,
-    "timeMonth": 3223,
+    "timeMonth": 3308,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2024-12-04": 44,
@@ -43,7 +43,7 @@
     "time": 1621,
     "timeDay": 3683,
     "timeWeek": 2170,
-    "timeMonth": 1727,
+    "timeMonth": 1749,
     "timeYear": 1621,
     "dailyMinutesDown": {
       "2024-12-04": 44
@@ -63,7 +63,7 @@
     "time": 921,
     "timeDay": 755,
     "timeWeek": 914,
-    "timeMonth": 921,
+    "timeMonth": 920,
     "timeYear": 921,
     "dailyMinutesDown": {}
   },
@@ -81,7 +81,7 @@
     "time": 876,
     "timeDay": 728,
     "timeWeek": 875,
-    "timeMonth": 881,
+    "timeMonth": 884,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -91,18 +91,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.65%",
-    "uptimeYear": "97.75%",
+    "uptimeMonth": "72.13%",
+    "uptimeYear": "97.54%",
     "time": 1303,
     "timeDay": 793,
     "timeWeek": 1082,
-    "timeMonth": 1029,
+    "timeMonth": 1033,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2025-01-05": 16,
+      "2025-01-05": 1120,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -134,7 +134,7 @@
     "time": 1006,
     "timeDay": 777,
     "timeWeek": 861,
-    "timeMonth": 1133,
+    "timeMonth": 1147,
     "timeYear": 1006,
     "dailyMinutesDown": {}
   },
@@ -143,18 +143,20 @@
     "url": "https://www.jerritpeinelt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerritpeinelt.com.ico",
     "slug": "jerrit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
     "timeDay": 759,
     "timeWeek": 888,
-    "timeMonth": 910,
+    "timeMonth": 912,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   },
   {
     "name": "IBB",
@@ -170,7 +172,7 @@
     "time": 1321,
     "timeDay": 772,
     "timeWeek": 854,
-    "timeMonth": 926,
+    "timeMonth": 931,
     "timeYear": 1321,
     "dailyMinutesDown": {
       "2024-11-28": 51
@@ -190,7 +192,7 @@
     "time": 2103,
     "timeDay": 1096,
     "timeWeek": 1233,
-    "timeMonth": 2945,
+    "timeMonth": 2990,
     "timeYear": 2103,
     "dailyMinutesDown": {
       "2024-11-08": 15,
