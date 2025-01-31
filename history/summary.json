@@ -94,7 +94,7 @@
     "uptime": "95.16%",
     "uptimeDay": "74.73%",
     "uptimeWeek": "96.39%",
-    "uptimeMonth": "24.67%",
+    "uptimeMonth": "25.14%",
     "uptimeYear": "92.77%",
     "time": 1297,
     "timeDay": 1154,
@@ -161,18 +161,20 @@
     "url": "https://www.jerritpeinelt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerritpeinelt.com.ico",
     "slug": "jerrit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 804,
-    "timeWeek": 881,
-    "timeMonth": 886,
-    "timeYear": 885,
-    "dailyMinutesDown": {}
+    "time": 880,
+    "timeDay": 627,
+    "timeWeek": 827,
+    "timeMonth": 873,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   },
   {
     "name": "IBB",
