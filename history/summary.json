@@ -42,7 +42,7 @@
     "time": 1720,
     "timeDay": 1625,
     "timeWeek": 2295,
-    "timeMonth": 1964,
+    "timeMonth": 1994,
     "timeYear": 1720,
     "dailyMinutesDown": {
       "2024-12-04": 44
@@ -71,9 +71,9 @@
     "url": "https://www.kinder-und-klinik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinder-und-klinik.de.ico",
     "slug": "kinder-and-klinik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 926,
     "timeMonth": 884,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-03": 0
+    }
   },
   {
     "name": "Kaarisma",
@@ -93,7 +95,7 @@
     "uptime": "95.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.39%",
-    "uptimeMonth": "33.62%",
+    "uptimeMonth": "35.21%",
     "uptimeYear": "92.77%",
     "time": 1298,
     "timeDay": 1761,
@@ -179,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibb-woern.de.ico",
     "slug": "ibb",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1186,
     "timeDay": 1253,
     "timeWeek": 979,
