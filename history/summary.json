@@ -54,19 +54,19 @@
     "url": "https://upliftfounders.com",
     "icon": "https://icons.duckduckgo.com/ip3/upliftfounders.com.ico",
     "slug": "uplift-founders",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 790,
-    "timeWeek": 840,
-    "timeMonth": 939,
-    "timeYear": 935,
+    "time": 934,
+    "timeDay": 801,
+    "timeWeek": 837,
+    "timeMonth": 935,
+    "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-03-20": 0
+      "2025-03-20": 6
     }
   },
   {
