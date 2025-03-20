@@ -54,9 +54,9 @@
     "url": "https://upliftfounders.com",
     "icon": "https://icons.duckduckgo.com/ip3/upliftfounders.com.ico",
     "slug": "uplift-founders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,7 +65,9 @@
     "timeWeek": 840,
     "timeMonth": 939,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-20": 0
+    }
   },
   {
     "name": "Kinder & Klinik",
@@ -97,7 +99,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.78%",
+    "uptimeYear": "92.85%",
     "time": 1287,
     "timeDay": 818,
     "timeWeek": 959,
