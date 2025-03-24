@@ -228,19 +228,19 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "down",
-    "uptime": "56.24%",
-    "uptimeDay": "56.24%",
-    "uptimeWeek": "56.24%",
-    "uptimeMonth": "56.24%",
-    "uptimeYear": "56.24%",
-    "time": 11933,
-    "timeDay": 11933,
-    "timeWeek": 11933,
-    "timeMonth": 11933,
-    "timeYear": 11933,
+    "status": "up",
+    "uptime": "50.24%",
+    "uptimeDay": "50.24%",
+    "uptimeWeek": "50.24%",
+    "uptimeMonth": "50.24%",
+    "uptimeYear": "50.24%",
+    "time": 11847,
+    "timeDay": 11847,
+    "timeWeek": 11847,
+    "timeMonth": 11847,
+    "timeYear": 11847,
     "dailyMinutesDown": {
-      "2025-03-24": 16
+      "2025-03-24": 21
     }
   }
 ]
