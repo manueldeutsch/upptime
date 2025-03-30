@@ -13,7 +13,7 @@
     "time": 1391,
     "timeDay": 670,
     "timeWeek": 968,
-    "timeMonth": 1366,
+    "timeMonth": 1476,
     "timeYear": 1397,
     "dailyMinutesDown": {
       "2025-02-05": 928,
@@ -42,7 +42,7 @@
     "time": 1673,
     "timeDay": 1089,
     "timeWeek": 1493,
-    "timeMonth": 1444,
+    "timeMonth": 1450,
     "timeYear": 1673,
     "dailyMinutesDown": {
       "2024-12-04": 44
@@ -62,7 +62,7 @@
     "time": 930,
     "timeDay": 771,
     "timeWeek": 917,
-    "timeMonth": 911,
+    "timeMonth": 919,
     "timeYear": 930,
     "dailyMinutesDown": {}
   },
@@ -80,7 +80,7 @@
     "time": 888,
     "timeDay": 848,
     "timeWeek": 867,
-    "timeMonth": 887,
+    "timeMonth": 896,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2025-02-03": 18
@@ -100,7 +100,7 @@
     "time": 1284,
     "timeDay": 909,
     "timeWeek": 1044,
-    "timeMonth": 1068,
+    "timeMonth": 1077,
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-02-10": 15,
@@ -152,7 +152,7 @@
     "time": 969,
     "timeDay": 744,
     "timeWeek": 943,
-    "timeMonth": 896,
+    "timeMonth": 902,
     "timeYear": 969,
     "dailyMinutesDown": {}
   },
@@ -170,7 +170,7 @@
     "time": 891,
     "timeDay": 851,
     "timeWeek": 907,
-    "timeMonth": 905,
+    "timeMonth": 913,
     "timeYear": 891,
     "dailyMinutesDown": {}
   },
@@ -188,7 +188,7 @@
     "time": 1076,
     "timeDay": 797,
     "timeWeek": 913,
-    "timeMonth": 899,
+    "timeMonth": 908,
     "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-01-30": 29,
@@ -203,17 +203,16 @@
     "slug": "karlsruher-kind",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
     "time": 2028,
     "timeDay": 2675,
     "timeWeek": 1958,
-    "timeMonth": 1942,
+    "timeMonth": 2144,
     "timeYear": 2028,
     "dailyMinutesDown": {
-      "2025-03-29": 2,
       "2025-03-07": 59,
       "2024-11-08": 15,
       "2024-06-19": 144,
@@ -230,11 +229,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 2518,
     "timeDay": 577,
     "timeWeek": 2518,
