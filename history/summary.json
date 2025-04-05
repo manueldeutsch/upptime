@@ -14,7 +14,7 @@
     "timeDay": 1298,
     "timeWeek": 1034,
     "timeMonth": 1374,
-    "timeYear": 1403,
+    "timeYear": 1405,
     "dailyMinutesDown": {
       "2025-02-05": 928,
       "2025-02-04": 893,
@@ -101,7 +101,7 @@
     "timeDay": 844,
     "timeWeek": 1098,
     "timeMonth": 1097,
-    "timeYear": 1361,
+    "timeYear": 1362,
     "dailyMinutesDown": {
       "2025-02-10": 15,
       "2025-01-31": 364,
@@ -211,7 +211,7 @@
     "timeDay": 783,
     "timeWeek": 1518,
     "timeMonth": 1763,
-    "timeYear": 2017,
+    "timeYear": 2019,
     "dailyMinutesDown": {
       "2025-03-07": 59,
       "2024-11-08": 15,
@@ -228,18 +228,19 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1641,
     "timeDay": 583,
     "timeWeek": 811,
     "timeMonth": 1641,
     "timeYear": 1641,
     "dailyMinutesDown": {
+      "2025-04-05": 0,
       "2025-04-03": 16,
       "2025-03-24": 16
     }
