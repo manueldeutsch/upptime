@@ -53,9 +53,9 @@
     "url": "https://upliftfounders.com",
     "icon": "https://icons.duckduckgo.com/ip3/upliftfounders.com.ico",
     "slug": "uplift-founders",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,7 +64,9 @@
     "timeWeek": 779,
     "timeMonth": 879,
     "timeYear": 925,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-11": 0
+    }
   },
   {
     "name": "Kinder & Klinik",
@@ -211,7 +213,7 @@
     "timeDay": 752,
     "timeWeek": 832,
     "timeMonth": 1623,
-    "timeYear": 1929,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2025-03-07": 59,
       "2024-11-08": 15,
@@ -228,11 +230,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1368,
     "timeDay": 751,
     "timeWeek": 688,
