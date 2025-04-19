@@ -92,7 +92,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
     "status": "up",
-    "uptime": "95.76%",
+    "uptime": "95.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -224,9 +224,9 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -236,6 +236,7 @@
     "timeMonth": 1204,
     "timeYear": 1204,
     "dailyMinutesDown": {
+      "2025-04-19": 0,
       "2025-04-08": 20,
       "2025-04-03": 16,
       "2025-03-24": 16
