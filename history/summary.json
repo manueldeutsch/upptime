@@ -51,9 +51,9 @@
     "url": "https://upliftfounders.com",
     "icon": "https://icons.duckduckgo.com/ip3/upliftfounders.com.ico",
     "slug": "uplift-founders",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -63,6 +63,7 @@
     "timeMonth": 964,
     "timeYear": 909,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-07-03": 29
     }
   },
@@ -92,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
     "status": "up",
-    "uptime": "96.32%",
+    "uptime": "96.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -213,7 +214,7 @@
     "timeDay": 1216,
     "timeWeek": 1130,
     "timeMonth": 1060,
-    "timeYear": 1555,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2025-03-07": 59,
       "2024-11-08": 15
