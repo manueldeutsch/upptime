@@ -4,10 +4,10 @@
     "url": "https://www.datenwerkbank.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1414,
@@ -16,6 +16,7 @@
     "timeMonth": 1695,
     "timeYear": 1533,
     "dailyMinutesDown": {
+      "2025-09-05": 1,
       "2025-02-05": 928,
       "2025-02-04": 893,
       "2024-12-04": 44,
@@ -31,10 +32,10 @@
     "url": "https://www.manuel-deutsch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.manuel-deutsch.de.ico",
     "slug": "manuel-deutsch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1600,
@@ -43,6 +44,7 @@
     "timeMonth": 2034,
     "timeYear": 1600,
     "dailyMinutesDown": {
+      "2025-09-05": 1,
       "2024-12-04": 44
     }
   },
@@ -71,10 +73,10 @@
     "url": "https://www.kinder-und-klinik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinder-und-klinik.de.ico",
     "slug": "kinder-and-klinik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
@@ -83,6 +85,7 @@
     "timeMonth": 888,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2025-09-05": 1,
       "2025-02-03": 18
     }
   },
@@ -159,9 +162,9 @@
     "url": "https://www.jerritpeinelt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerritpeinelt.com.ico",
     "slug": "jerrit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -171,6 +174,7 @@
     "timeMonth": 888,
     "timeYear": 951,
     "dailyMinutesDown": {
+      "2025-09-05": 0,
       "2025-07-02": 114
     }
   },
