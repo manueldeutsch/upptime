@@ -14,7 +14,7 @@
     "timeDay": 865,
     "timeWeek": 1088,
     "timeMonth": 1451,
-    "timeYear": 1551,
+    "timeYear": 1553,
     "dailyMinutesDown": {
       "2025-02-05": 928,
       "2025-02-04": 893,
@@ -221,9 +221,9 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.87%",
@@ -233,6 +233,7 @@
     "timeMonth": 804,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-09-12": 28,
       "2025-09-09": 21,
       "2025-08-17": 33,
