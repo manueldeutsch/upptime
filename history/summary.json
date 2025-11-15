@@ -138,19 +138,19 @@
     "url": "https://fingolex.com",
     "icon": "https://icons.duckduckgo.com/ip3/fingolex.com.ico",
     "slug": "fingolex",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 761,
-    "timeWeek": 819,
-    "timeMonth": 896,
+    "timeDay": 780,
+    "timeWeek": 816,
+    "timeMonth": 893,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2025-11-15": 0
+      "2025-11-15": 7
     }
   },
   {
@@ -208,7 +208,7 @@
     "uptimeYear": "99.98%",
     "time": 1434,
     "timeDay": 730,
-    "timeWeek": 1186,
+    "timeWeek": 1160,
     "timeMonth": 1376,
     "timeYear": 1393,
     "dailyMinutesDown": {
