@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.64%",
-    "time": 1547,
-    "timeDay": 775,
-    "timeWeek": 1079,
-    "timeMonth": 1205,
-    "timeYear": 1684,
+    "time": 1548,
+    "timeDay": 1124,
+    "timeWeek": 934,
+    "timeMonth": 1211,
+    "timeYear": 1649,
     "dailyMinutesDown": {
       "2025-10-22": 36,
       "2025-02-05": 928,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 1566,
-    "timeDay": 1254,
-    "timeWeek": 1304,
-    "timeMonth": 1375,
-    "timeYear": 1573,
+    "time": 1567,
+    "timeDay": 1839,
+    "timeWeek": 1225,
+    "timeMonth": 1394,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2025-10-22": 36,
       "2024-12-04": 44
@@ -55,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 910,
-    "timeDay": 740,
-    "timeWeek": 890,
-    "timeMonth": 941,
+    "timeDay": 841,
+    "timeWeek": 802,
+    "timeMonth": 949,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2025-07-03": 29
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 911,
-    "timeDay": 829,
-    "timeWeek": 847,
-    "timeMonth": 897,
-    "timeYear": 914,
+    "timeDay": 876,
+    "timeWeek": 827,
+    "timeMonth": 896,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2025-02-03": 18
     }
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.89%",
     "time": 1130,
-    "timeDay": 778,
-    "timeWeek": 935,
-    "timeMonth": 1073,
-    "timeYear": 1075,
+    "timeDay": 895,
+    "timeWeek": 878,
+    "timeMonth": 1072,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2025-05-12": 53,
       "2025-02-10": 15,
@@ -138,18 +138,20 @@
     "url": "https://fingolex.com",
     "icon": "https://icons.duckduckgo.com/ip3/fingolex.com.ico",
     "slug": "fingolex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 780,
-    "timeWeek": 816,
+    "timeDay": 823,
+    "timeWeek": 785,
     "timeMonth": 893,
     "timeYear": 919,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-16": 0
+    }
   },
   {
     "name": "Jerrit",
@@ -163,10 +165,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 937,
-    "timeDay": 780,
-    "timeWeek": 834,
-    "timeMonth": 887,
-    "timeYear": 941,
+    "timeDay": 838,
+    "timeWeek": 821,
+    "timeMonth": 885,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2025-07-02": 114
     }
@@ -183,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 991,
-    "timeDay": 876,
-    "timeWeek": 968,
-    "timeMonth": 1168,
+    "timeDay": 958,
+    "timeWeek": 920,
+    "timeMonth": 1171,
     "timeYear": 996,
     "dailyMinutesDown": {
       "2025-01-30": 29,
@@ -205,10 +207,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1434,
-    "timeDay": 730,
-    "timeWeek": 1160,
+    "timeDay": 791,
+    "timeWeek": 1049,
     "timeMonth": 1376,
-    "timeYear": 1393,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2025-11-11": 27,
       "2025-03-07": 59
@@ -226,8 +228,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 870,
-    "timeDay": 511,
-    "timeWeek": 607,
+    "timeDay": 706,
+    "timeWeek": 592,
     "timeMonth": 747,
     "timeYear": 870,
     "dailyMinutesDown": {
