@@ -140,18 +140,16 @@
     "slug": "fingolex",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
-    "timeDay": 806,
+    "timeDay": 810,
     "timeWeek": 784,
     "timeMonth": 890,
     "timeYear": 919,
-    "dailyMinutesDown": {
-      "2025-11-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jerrit",
