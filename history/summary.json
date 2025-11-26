@@ -4,18 +4,19 @@
     "url": "https://www.datenwerkbank.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 1576,
+    "time": 1562,
     "timeDay": 3689,
     "timeWeek": 2216,
     "timeMonth": 1519,
     "timeYear": 1658,
     "dailyMinutesDown": {
+      "2025-11-26": 1,
       "2025-10-22": 36,
       "2025-02-05": 928,
       "2025-02-04": 893,
@@ -27,10 +28,10 @@
     "url": "https://www.manuel-deutsch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.manuel-deutsch.de.ico",
     "slug": "manuel-deutsch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1566,
@@ -39,6 +40,7 @@
     "timeMonth": 1522,
     "timeYear": 1564,
     "dailyMinutesDown": {
+      "2025-11-26": 1,
       "2025-10-22": 36,
       "2024-12-04": 44
     }
@@ -56,7 +58,7 @@
     "uptimeYear": "99.99%",
     "time": 915,
     "timeDay": 799,
-    "timeWeek": 1111,
+    "timeWeek": 899,
     "timeMonth": 997,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -68,10 +70,10 @@
     "url": "https://www.kinder-und-klinik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinder-und-klinik.de.ico",
     "slug": "kinder-and-klinik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 911,
@@ -80,6 +82,7 @@
     "timeMonth": 912,
     "timeYear": 913,
     "dailyMinutesDown": {
+      "2025-11-26": 1,
       "2025-02-03": 18
     }
   },
@@ -156,9 +159,9 @@
     "url": "https://www.jerritpeinelt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerritpeinelt.com.ico",
     "slug": "jerrit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -168,6 +171,7 @@
     "timeMonth": 905,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2025-11-26": 0,
       "2025-07-02": 114
     }
   },
