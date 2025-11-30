@@ -12,7 +12,7 @@
     "uptimeYear": "99.64%",
     "time": 1564,
     "timeDay": 804,
-    "timeWeek": 1654,
+    "timeWeek": 1195,
     "timeMonth": 1431,
     "timeYear": 1639,
     "dailyMinutesDown": {
@@ -70,17 +70,16 @@
     "slug": "kinder-and-klinik",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 911,
     "timeDay": 913,
     "timeWeek": 885,
     "timeMonth": 896,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2025-11-30": 9,
       "2025-02-03": 18
     }
   },
@@ -159,9 +158,9 @@
     "slug": "jerrit",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 936,
     "timeDay": 848,
@@ -169,7 +168,6 @@
     "timeMonth": 894,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2025-11-30": 9,
       "2025-07-02": 114
     }
   },
@@ -199,9 +197,9 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -211,6 +209,7 @@
     "timeMonth": 1406,
     "timeYear": 1391,
     "dailyMinutesDown": {
+      "2025-11-30": 0,
       "2025-11-11": 27,
       "2025-03-07": 59
     }
