@@ -199,9 +199,9 @@
     "slug": "karlsruher-kind",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1433,
     "timeDay": 1044,
@@ -209,7 +209,6 @@
     "timeMonth": 1406,
     "timeYear": 1391,
     "dailyMinutesDown": {
-      "2025-11-30": 9,
       "2025-11-11": 27,
       "2025-03-07": 59
     }
@@ -219,11 +218,11 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 863,
     "timeDay": 590,
@@ -231,6 +230,7 @@
     "timeMonth": 696,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2025-11-30": 0,
       "2025-11-17": 15,
       "2025-09-29": 15,
       "2025-09-12": 28,
