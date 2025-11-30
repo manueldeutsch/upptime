@@ -68,10 +68,10 @@
     "url": "https://www.kinder-und-klinik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinder-und-klinik.de.ico",
     "slug": "kinder-and-klinik",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 910,
@@ -80,6 +80,7 @@
     "timeMonth": 890,
     "timeYear": 913,
     "dailyMinutesDown": {
+      "2025-11-30": 1,
       "2025-02-03": 18
     }
   },
@@ -156,9 +157,9 @@
     "url": "https://www.jerritpeinelt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jerritpeinelt.com.ico",
     "slug": "jerrit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -168,6 +169,7 @@
     "timeMonth": 890,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2025-11-30": 0,
       "2025-07-02": 114
     }
   },
@@ -220,9 +222,9 @@
     "slug": "baeren-marbach",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.89%",
     "time": 862,
     "timeDay": 669,
@@ -230,7 +232,6 @@
     "timeMonth": 697,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2025-11-30": 6,
       "2025-11-17": 15,
       "2025-09-29": 15,
       "2025-09-12": 28,
