@@ -261,8 +261,8 @@
     "slug": "karlsruher-kind",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.82%",
     "time": 1474,
@@ -271,7 +271,6 @@
     "timeMonth": 1264,
     "timeYear": 1300,
     "dailyMinutesDown": {
-      "2026-03-17": 2,
       "2026-03-16": 56,
       "2026-03-15": 15,
       "2026-03-12": 41,
