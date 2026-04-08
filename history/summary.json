@@ -171,10 +171,10 @@
     "url": "https://www.kaarisma.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kaarisma.de.ico",
     "slug": "kaarisma",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1063,
@@ -183,6 +183,7 @@
     "timeMonth": 1026,
     "timeYear": 1057,
     "dailyMinutesDown": {
+      "2026-04-08": 1,
       "2026-02-11": 31,
       "2025-05-12": 53
     }
@@ -277,9 +278,9 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "87.17%",
+    "uptimeDay": "87.15%",
     "uptimeWeek": "96.54%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.73%",
