@@ -14,7 +14,7 @@
     "timeDay": 813,
     "timeWeek": 1061,
     "timeMonth": 1012,
-    "timeYear": 1159,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2026-04-18": 22,
       "2026-04-17": 23,
@@ -66,7 +66,7 @@
     "timeDay": 1319,
     "timeWeek": 1471,
     "timeMonth": 1425,
-    "timeYear": 1492,
+    "timeYear": 1491,
     "dailyMinutesDown": {
       "2026-04-18": 22,
       "2026-04-17": 23,
@@ -118,7 +118,7 @@
     "timeDay": 755,
     "timeWeek": 776,
     "timeMonth": 891,
-    "timeYear": 930,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2026-02-04": 57,
       "2025-12-20": 15,
@@ -142,7 +142,7 @@
     "timeDay": 885,
     "timeWeek": 897,
     "timeMonth": 937,
-    "timeYear": 957,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2026-04-18": 22,
       "2026-04-17": 23,
@@ -215,7 +215,7 @@
     "timeDay": 896,
     "timeWeek": 880,
     "timeMonth": 899,
-    "timeYear": 933,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
@@ -233,7 +233,7 @@
     "timeDay": 868,
     "timeWeek": 787,
     "timeMonth": 866,
-    "timeYear": 973,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2026-02-04": 22
     }
@@ -243,19 +243,19 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "87.86%",
-    "uptimeWeek": "86.42%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "86.41%",
     "uptimeMonth": "94.08%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 1325,
-    "timeDay": 1202,
-    "timeWeek": 1086,
+    "timeDay": 1236,
+    "timeWeek": 1089,
     "timeMonth": 1179,
     "timeYear": 1270,
     "dailyMinutesDown": {
-      "2026-04-19": 175,
+      "2026-04-19": 176,
       "2026-04-18": 265,
       "2026-04-17": 157,
       "2026-04-16": 147,
@@ -293,7 +293,7 @@
       "2026-02-13": 21,
       "2026-02-12": 25,
       "2026-02-11": 24,
-      "2026-02-10": 42
+      "2026-02-10": 15
     }
   },
   {
@@ -311,7 +311,7 @@
     "timeDay": 707,
     "timeWeek": 717,
     "timeMonth": 782,
-    "timeYear": 814,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2026-04-18": 53,
       "2026-04-17": 32,
@@ -461,7 +461,7 @@
     "timeMonth": 3135,
     "timeYear": 3135,
     "dailyMinutesDown": {
-      "2026-04-19": 1372,
+      "2026-04-19": 1387,
       "2026-04-18": 1440,
       "2026-04-17": 789
     }
@@ -472,11 +472,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hailteam.de.ico",
     "slug": "hailteam",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
     "time": 965,
     "timeDay": 849,
     "timeWeek": 965,
