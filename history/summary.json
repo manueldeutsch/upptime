@@ -246,11 +246,11 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "90.33%",
-    "uptimeWeek": "85.16%",
-    "uptimeMonth": "91.33%",
+    "uptimeDay": "90.29%",
+    "uptimeWeek": "85.15%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 1294,
     "timeDay": 1019,
@@ -258,7 +258,7 @@
     "timeMonth": 1162,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2026-04-30": 116,
+      "2026-04-30": 117,
       "2026-04-29": 82,
       "2026-04-28": 196,
       "2026-04-27": 375,
@@ -278,7 +278,7 @@
       "2026-04-13": 129,
       "2026-04-12": 393,
       "2026-04-11": 52,
-      "2026-04-10": 45
+      "2026-04-10": 21
     }
   },
   {
@@ -450,7 +450,7 @@
     "timeMonth": 3050,
     "timeYear": 3050,
     "dailyMinutesDown": {
-      "2026-04-30": 477,
+      "2026-04-30": 572,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
       "2026-04-27": 1440,
@@ -494,11 +494,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.studiosodele.de.ico",
     "slug": "studio-sodele",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 967,
     "timeDay": 1323,
     "timeWeek": 984,
