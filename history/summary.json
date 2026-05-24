@@ -245,17 +245,17 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "down",
+    "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "89.84%",
-    "uptimeMonth": "90.19%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "89.69%",
+    "uptimeMonth": "90.16%",
     "uptimeYear": "99.18%",
     "time": 1288,
-    "timeDay": 1115,
-    "timeWeek": 1132,
-    "timeMonth": 1136,
-    "timeYear": 1255,
+    "timeDay": 1023,
+    "timeWeek": 1124,
+    "timeMonth": 1134,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2026-04-25": 22,
       "2026-04-26": 214,
@@ -286,7 +286,7 @@
       "2026-05-21": 280,
       "2026-05-22": 83,
       "2026-05-23": 287,
-      "2026-05-24": 30
+      "2026-05-24": 45
     }
   },
   {
@@ -457,17 +457,17 @@
     "url": "https://kern-weine.de",
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
-    "status": "down",
-    "uptime": "45.01%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "91.38%",
+    "status": "up",
+    "uptime": "44.99%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "91.23%",
     "uptimeMonth": "56.67%",
-    "uptimeYear": "45.01%",
-    "time": 2128,
-    "timeDay": 895,
-    "timeWeek": 1777,
-    "timeMonth": 2042,
-    "timeYear": 2128,
+    "uptimeYear": "44.99%",
+    "time": 2116,
+    "timeDay": 922,
+    "timeWeek": 1753,
+    "timeMonth": 2030,
+    "timeYear": 2116,
     "dailyMinutesDown": {
       "2026-05-06": 937,
       "2026-05-05": 1440,
@@ -503,7 +503,7 @@
       "2026-05-21": 261,
       "2026-05-22": 68,
       "2026-05-23": 244,
-      "2026-05-24": 21
+      "2026-05-24": 37
     }
   },
   {
