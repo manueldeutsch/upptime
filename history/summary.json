@@ -468,11 +468,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
     "status": "up",
-    "uptime": "47.86%",
+    "uptime": "47.90%",
     "uptimeDay": "95.49%",
     "uptimeWeek": "91.83%",
-    "uptimeMonth": "63.60%",
-    "uptimeYear": "47.86%",
+    "uptimeMonth": "63.70%",
+    "uptimeYear": "47.90%",
     "time": 2116,
     "timeDay": 1772,
     "timeWeek": 1690,
@@ -524,11 +524,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hailteam.de.ico",
     "slug": "hailteam",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.88%",
     "time": 961,
     "timeDay": 829,
     "timeWeek": 833,
@@ -537,9 +537,7 @@
     "dailyMinutesDown": {
       "2026-04-17": 22,
       "2026-04-18": 20,
-      "2026-04-23": 28,
-      "2026-05-27": 2,
-      "2026-05-26": 9
+      "2026-04-23": 28
     }
   },
   {
@@ -548,11 +546,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.studiosodele.de.ico",
     "slug": "studio-sodele",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.88%",
     "time": 1133,
     "timeDay": 857,
     "timeWeek": 963,
@@ -561,9 +559,7 @@
     "dailyMinutesDown": {
       "2026-04-17": 22,
       "2026-04-18": 20,
-      "2026-04-23": 28,
-      "2026-05-27": 2,
-      "2026-05-26": 4
+      "2026-04-23": 28
     }
   }
 ]
