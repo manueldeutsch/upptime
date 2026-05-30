@@ -252,10 +252,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "91.75%",
-    "uptimeMonth": "91.05%",
+    "uptime": "99.59%",
+    "uptimeDay": "91.66%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "91.01%",
     "uptimeYear": "99.13%",
     "time": 1271,
     "timeDay": 1151,
@@ -296,7 +296,7 @@
       "2026-05-27": 103,
       "2026-05-28": 183,
       "2026-05-29": 113,
-      "2026-05-30": 5
+      "2026-05-30": 26
     }
   },
   {
@@ -471,11 +471,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
     "status": "down",
-    "uptime": "50.96%",
-    "uptimeDay": "92.44%",
-    "uptimeWeek": "92.82%",
+    "uptime": "50.95%",
+    "uptimeDay": "91.99%",
+    "uptimeWeek": "92.61%",
     "uptimeMonth": "72.69%",
-    "uptimeYear": "50.96%",
+    "uptimeYear": "50.95%",
     "time": 2084,
     "timeDay": 1816,
     "timeWeek": 1593,
@@ -522,7 +522,7 @@
       "2026-05-27": 82,
       "2026-05-28": 168,
       "2026-05-29": 108,
-      "2026-05-30": 0
+      "2026-05-30": 22
     }
   },
   {
