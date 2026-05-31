@@ -251,11 +251,11 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "91.75%",
-    "uptimeMonth": "90.71%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "86.16%",
+    "uptimeWeek": "91.73%",
+    "uptimeMonth": "90.69%",
     "uptimeYear": "99.19%",
     "time": 1249,
     "timeDay": 1117,
@@ -263,7 +263,6 @@
     "timeMonth": 1106,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2026-04-29": 23,
       "2026-04-30": 182,
       "2026-05-01": 87,
       "2026-05-02": 222,
@@ -295,7 +294,7 @@
       "2026-05-28": 183,
       "2026-05-29": 113,
       "2026-05-30": 144,
-      "2026-05-31": 176
+      "2026-05-31": 186
     }
   },
   {
@@ -303,11 +302,11 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.28%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "98.09%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "98.08%",
     "uptimeYear": "99.47%",
     "time": 847,
     "timeDay": 612,
@@ -360,7 +359,7 @@
       "2026-05-22": 127,
       "2026-05-23": 46,
       "2026-05-29": 200,
-      "2026-05-31": 25
+      "2026-05-31": 30
     }
   },
   {
@@ -470,12 +469,12 @@
     "url": "https://kern-weine.de",
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
-    "status": "up",
-    "uptime": "52.52%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "74.65%",
-    "uptimeYear": "52.52%",
+    "status": "down",
+    "uptime": "52.56%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "92.88%",
+    "uptimeMonth": "74.76%",
+    "uptimeYear": "52.56%",
     "time": 2135,
     "timeDay": 2332,
     "timeWeek": 2161,
