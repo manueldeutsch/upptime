@@ -266,17 +266,17 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "84.85%",
-    "uptimeMonth": "89.68%",
+    "uptimeDay": "92.99%",
+    "uptimeWeek": "84.71%",
+    "uptimeMonth": "89.65%",
     "uptimeYear": "99.06%",
-    "time": 1310,
-    "timeDay": 9165,
-    "timeWeek": 2153,
-    "timeMonth": 1362,
-    "timeYear": 1290,
+    "time": 1314,
+    "timeDay": 8204,
+    "timeWeek": 2224,
+    "timeMonth": 1387,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2026-05-04": 184,
       "2026-05-03": 18,
@@ -312,7 +312,7 @@
       "2026-06-03": 207,
       "2026-06-04": 366,
       "2026-06-05": 215,
-      "2026-06-06": 34
+      "2026-06-06": 48
     }
   },
   {
@@ -503,17 +503,17 @@
     "url": "https://kern-weine.de",
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
-    "status": "down",
-    "uptime": "56.46%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "86.50%",
-    "uptimeMonth": "91.17%",
-    "uptimeYear": "56.46%",
-    "time": 2201,
-    "timeDay": 4463,
-    "timeWeek": 2683,
-    "timeMonth": 2060,
-    "timeYear": 2201,
+    "status": "up",
+    "uptime": "56.45%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "86.36%",
+    "uptimeMonth": "91.14%",
+    "uptimeYear": "56.45%",
+    "time": 2229,
+    "timeDay": 4805,
+    "timeWeek": 2795,
+    "timeMonth": 2094,
+    "timeYear": 2229,
     "dailyMinutesDown": {
       "2026-05-06": 937,
       "2026-05-05": 1440,
@@ -562,7 +562,7 @@
       "2026-06-03": 183,
       "2026-06-04": 367,
       "2026-06-05": 191,
-      "2026-06-06": 25
+      "2026-06-06": 38
     }
   },
   {
@@ -598,11 +598,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.studiosodele.de.ico",
     "slug": "studio-sodele",
     "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "78.00%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.05%",
+    "uptime": "99.06%",
+    "uptimeDay": "78.76%",
+    "uptimeWeek": "93.96%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "99.06%",
     "time": 1078,
     "timeDay": 949,
     "timeWeek": 994,
@@ -616,7 +616,7 @@
       "2026-06-03": 101,
       "2026-06-04": 19,
       "2026-06-05": 245,
-      "2026-06-06": 228
+      "2026-06-06": 217
     }
   }
 ]
