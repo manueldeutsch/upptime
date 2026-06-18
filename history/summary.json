@@ -356,10 +356,10 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "50.36%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "50.35%",
     "uptimeMonth": "85.69%",
     "uptimeYear": "98.38%",
     "time": 810,
@@ -421,7 +421,8 @@
       "2026-06-15": 693,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
-      "2026-06-12": 1430
+      "2026-06-12": 1430,
+      "2026-06-18": 1
     }
   },
   {
@@ -567,11 +568,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
     "status": "up",
-    "uptime": "63.27%",
+    "uptime": "63.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.43%",
     "uptimeMonth": "90.90%",
-    "uptimeYear": "63.27%",
+    "uptimeYear": "63.31%",
     "time": 2372,
     "timeDay": 2288,
     "timeWeek": 3313,
