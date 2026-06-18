@@ -4,19 +4,18 @@
     "url": "https://www.datenwerkbank.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "84.77%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "91.85%",
-    "uptimeYear": "99.13%",
-    "time": 1171,
+    "uptimeDay": "82.05%",
+    "uptimeWeek": "89.20%",
+    "uptimeMonth": "91.76%",
+    "uptimeYear": "99.12%",
+    "time": 1172,
     "timeDay": 953,
     "timeWeek": 1337,
     "timeMonth": 1100,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2025-12-01": 17,
       "2025-12-03": 18,
       "2025-12-07": 18,
       "2026-01-16": 17,
@@ -66,7 +65,7 @@
       "2026-06-15": 155,
       "2026-06-16": 85,
       "2026-06-17": 100,
-      "2026-06-18": 144
+      "2026-06-18": 183
     }
   },
   {
@@ -74,19 +73,18 @@
     "url": "https://www.manuel-deutsch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.manuel-deutsch.de.ico",
     "slug": "manuel-deutsch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "86.11%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "99.19%",
-    "time": 1485,
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "92.46%",
+    "uptimeYear": "99.18%",
+    "time": 1484,
     "timeDay": 1445,
     "timeWeek": 1451,
     "timeMonth": 1473,
     "timeYear": 1495,
     "dailyMinutesDown": {
-      "2025-12-01": 17,
       "2025-12-03": 17,
       "2025-12-07": 18,
       "2026-01-16": 17,
@@ -136,7 +134,7 @@
       "2026-06-15": 145,
       "2026-06-16": 75,
       "2026-06-17": 91,
-      "2026-06-18": 135
+      "2026-06-18": 169
     }
   },
   {
@@ -168,11 +166,11 @@
     "url": "https://www.kinder-und-klinik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinder-und-klinik.de.ico",
     "slug": "kinder-and-klinik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "93.22%",
+    "uptimeDay": "85.39%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "99.07%",
     "time": 944,
     "timeDay": 964,
@@ -230,7 +228,7 @@
       "2026-06-15": 137,
       "2026-06-16": 69,
       "2026-06-17": 77,
-      "2026-06-18": 125
+      "2026-06-18": 155
     }
   },
   {
@@ -297,11 +295,11 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "89.18%",
-    "uptimeMonth": "89.62%",
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "88.93%",
+    "uptimeMonth": "89.56%",
     "uptimeYear": "98.94%",
     "time": 1301,
     "timeDay": 922,
@@ -309,7 +307,7 @@
     "timeMonth": 1596,
     "timeYear": 1318,
     "dailyMinutesDown": {
-      "2026-05-10": 58,
+      "2026-05-10": 41,
       "2026-05-11": 105,
       "2026-05-12": 525,
       "2026-05-13": 123,
@@ -347,7 +345,7 @@
       "2026-06-15": 74,
       "2026-06-16": 396,
       "2026-06-17": 55,
-      "2026-06-18": 69
+      "2026-06-18": 94
     }
   },
   {
@@ -429,12 +427,12 @@
     "url": "https://www.gruberundkollegen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.gruberundkollegen.de.ico",
     "slug": "gruber",
-    "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "88.79%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "93.87%",
-    "uptimeYear": "96.93%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "87.40%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "96.91%",
     "time": 1081,
     "timeDay": 1092,
     "timeWeek": 1025,
@@ -461,7 +459,7 @@
       "2026-06-15": 127,
       "2026-06-16": 64,
       "2026-06-17": 62,
-      "2026-06-18": 115
+      "2026-06-18": 135
     }
   },
   {
@@ -507,12 +505,12 @@
     "url": "https://jutekontor.de",
     "icon": "https://icons.duckduckgo.com/ip3/jutekontor.de.ico",
     "slug": "jutekontor",
-    "status": "up",
-    "uptime": "97.52%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "94.19%",
-    "uptimeMonth": "95.08%",
-    "uptimeYear": "97.52%",
+    "status": "down",
+    "uptime": "97.50%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "97.50%",
     "time": 1436,
     "timeDay": 1211,
     "timeWeek": 1484,
@@ -538,7 +536,7 @@
       "2026-06-15": 111,
       "2026-06-16": 55,
       "2026-06-17": 22,
-      "2026-06-18": 105
+      "2026-06-18": 120
     }
   },
   {
@@ -566,12 +564,12 @@
     "url": "https://kern-weine.de",
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
-    "status": "up",
-    "uptime": "63.48%",
-    "uptimeDay": "94.86%",
-    "uptimeWeek": "90.11%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "63.48%",
+    "status": "down",
+    "uptime": "63.51%",
+    "uptimeDay": "94.14%",
+    "uptimeWeek": "90.00%",
+    "uptimeMonth": "90.71%",
+    "uptimeYear": "63.51%",
     "time": 2364,
     "timeDay": 1606,
     "timeWeek": 3281,
@@ -636,7 +634,7 @@
       "2026-06-15": 69,
       "2026-06-16": 391,
       "2026-06-17": 60,
-      "2026-06-18": 74
+      "2026-06-18": 84
     }
   },
   {
@@ -644,11 +642,11 @@
     "url": "https://www.hailteam.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hailteam.de.ico",
     "slug": "hailteam",
-    "status": "up",
+    "status": "down",
     "uptime": "97.78%",
-    "uptimeDay": "92.15%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "95.61%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "95.60%",
     "uptimeYear": "97.78%",
     "time": 933,
     "timeDay": 1003,
@@ -673,7 +671,7 @@
       "2026-06-15": 111,
       "2026-06-16": 50,
       "2026-06-17": 17,
-      "2026-06-18": 95
+      "2026-06-18": 100
     }
   },
   {
@@ -681,10 +679,10 @@
     "url": "https://www.studiosodele.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.studiosodele.de.ico",
     "slug": "studio-sodele",
-    "status": "up",
+    "status": "down",
     "uptime": "98.07%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "96.10%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "96.09%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "98.07%",
     "time": 1056,
@@ -709,7 +707,7 @@
       "2026-06-14": 141,
       "2026-06-15": 106,
       "2026-06-16": 45,
-      "2026-06-18": 87
+      "2026-06-18": 88
     }
   }
 ]
