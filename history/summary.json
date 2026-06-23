@@ -282,17 +282,17 @@
     "url": "https://www.karlsruher-kind.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.karlsruher-kind.de.ico",
     "slug": "karlsruher-kind",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "91.67%",
-    "uptimeMonth": "90.24%",
+    "uptimeDay": "91.96%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "90.22%",
     "uptimeYear": "99.00%",
     "time": 1321,
-    "timeDay": 1389,
-    "timeWeek": 1055,
-    "timeMonth": 1622,
-    "timeYear": 1316,
+    "timeDay": 1335,
+    "timeWeek": 1063,
+    "timeMonth": 1618,
+    "timeYear": 1315,
     "dailyMinutesDown": {
       "2026-05-17": 34,
       "2026-05-18": 20,
@@ -329,7 +329,7 @@
       "2026-06-19": 210,
       "2026-06-20": 141,
       "2026-06-21": 186,
-      "2026-06-23": 107
+      "2026-06-23": 115
     }
   },
   {
@@ -345,7 +345,7 @@
     "uptimeYear": "98.37%",
     "time": 810,
     "timeDay": 906,
-    "timeWeek": 799,
+    "timeWeek": 788,
     "timeMonth": 786,
     "timeYear": 794,
     "dailyMinutesDown": {
@@ -419,7 +419,7 @@
     "uptimeYear": "96.90%",
     "time": 1066,
     "timeDay": 1126,
-    "timeWeek": 983,
+    "timeWeek": 977,
     "timeMonth": 973,
     "timeYear": 1066,
     "dailyMinutesDown": {
@@ -462,7 +462,7 @@
     "uptimeYear": "99.96%",
     "time": 916,
     "timeDay": 1058,
-    "timeWeek": 925,
+    "timeWeek": 900,
     "timeMonth": 900,
     "timeYear": 916,
     "dailyMinutesDown": {
@@ -482,7 +482,7 @@
     "uptimeYear": "100.00%",
     "time": 647,
     "timeDay": 709,
-    "timeWeek": 662,
+    "timeWeek": 644,
     "timeMonth": 628,
     "timeYear": 647,
     "dailyMinutesDown": {}
@@ -500,7 +500,7 @@
     "uptimeYear": "97.53%",
     "time": 1418,
     "timeDay": 2485,
-    "timeWeek": 1259,
+    "timeWeek": 1246,
     "timeMonth": 1466,
     "timeYear": 1418,
     "dailyMinutesDown": {
@@ -542,7 +542,7 @@
     "uptimeYear": "99.96%",
     "time": 1665,
     "timeDay": 2256,
-    "timeWeek": 1834,
+    "timeWeek": 1797,
     "timeMonth": 1680,
     "timeYear": 1665,
     "dailyMinutesDown": {
@@ -554,17 +554,17 @@
     "url": "https://kern-weine.de",
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
-    "status": "down",
+    "status": "up",
     "uptime": "94.25%",
-    "uptimeDay": "93.51%",
-    "uptimeWeek": "92.48%",
-    "uptimeMonth": "91.30%",
+    "uptimeDay": "92.97%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "94.25%",
-    "time": 2380,
-    "timeDay": 2647,
-    "timeWeek": 2356,
-    "timeMonth": 2601,
-    "timeYear": 2380,
+    "time": 2378,
+    "timeDay": 2412,
+    "timeWeek": 2338,
+    "timeMonth": 2595,
+    "timeYear": 2378,
     "dailyMinutesDown": {
       "2026-05-10": 62,
       "2026-05-11": 96,
@@ -607,7 +607,7 @@
       "2026-06-19": 191,
       "2026-06-20": 135,
       "2026-06-21": 171,
-      "2026-06-23": 93
+      "2026-06-23": 100
     }
   },
   {
@@ -623,7 +623,7 @@
     "uptimeYear": "97.83%",
     "time": 927,
     "timeDay": 1102,
-    "timeWeek": 924,
+    "timeWeek": 914,
     "timeMonth": 909,
     "timeYear": 927,
     "dailyMinutesDown": {
@@ -662,7 +662,7 @@
     "uptimeYear": "98.11%",
     "time": 1042,
     "timeDay": 1239,
-    "timeWeek": 955,
+    "timeWeek": 953,
     "timeMonth": 993,
     "timeYear": 1042,
     "dailyMinutesDown": {
