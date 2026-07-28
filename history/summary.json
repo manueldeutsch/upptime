@@ -286,17 +286,17 @@
     "slug": "karlsruher-kind",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "98.94%",
     "time": 1303,
     "timeDay": 791,
     "timeWeek": 940,
     "timeMonth": 1034,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2026-05-20": 84,
+      "2026-05-20": 150,
       "2026-05-21": 280,
       "2026-05-22": 83,
       "2026-05-23": 287,
@@ -333,8 +333,7 @@
       "2026-06-25": 29,
       "2026-07-14": 91,
       "2026-07-15": 197,
-      "2026-07-22": 64,
-      "2026-07-27": 6
+      "2026-07-22": 64
     }
   },
   {
@@ -344,7 +343,7 @@
     "slug": "baeren-marbach",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "70.77%",
+    "uptimeDay": "74.57%",
     "uptimeWeek": "95.48%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "98.23%",
@@ -354,7 +353,6 @@
     "timeMonth": 790,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-07-28": 36,
       "2025-08-13": 17,
       "2025-08-17": 33,
       "2025-09-09": 21,
@@ -583,17 +581,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
     "status": "up",
-    "uptime": "96.30%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.40%",
+    "uptime": "96.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "96.30%",
+    "uptimeYear": "96.28%",
     "time": 2245,
     "timeDay": 1692,
     "timeWeek": 1639,
     "timeMonth": 1541,
     "timeYear": 2245,
     "dailyMinutesDown": {
+      "2026-05-12": 38,
       "2026-05-13": 113,
       "2026-05-14": 61,
       "2026-05-15": 60,
@@ -637,8 +636,7 @@
       "2026-06-25": 24,
       "2026-07-14": 86,
       "2026-07-15": 187,
-      "2026-07-22": 59,
-      "2026-07-27": 1
+      "2026-07-22": 59
     }
   },
   {
