@@ -342,16 +342,16 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "down",
-    "uptime": "98.58%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "98.10%",
+    "status": "up",
+    "uptime": "98.57%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "93.54%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "98.09%",
     "time": 812,
-    "timeDay": 797,
-    "timeWeek": 841,
-    "timeMonth": 800,
+    "timeDay": 765,
+    "timeWeek": 829,
+    "timeMonth": 797,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-13": 17,
@@ -420,7 +420,7 @@
       "2026-08-02": 218,
       "2026-08-03": 133,
       "2026-08-05": 35,
-      "2026-08-06": 1
+      "2026-08-06": 47
     }
   },
   {
@@ -518,7 +518,7 @@
     "uptime": "91.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.55%",
+    "uptimeMonth": "95.66%",
     "uptimeYear": "91.04%",
     "time": 1491,
     "timeDay": 1010,
