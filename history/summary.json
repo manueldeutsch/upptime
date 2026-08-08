@@ -261,17 +261,17 @@
     "url": "https://ibb-woern.de",
     "icon": "https://icons.duckduckgo.com/ip3/ibb-woern.de.ico",
     "slug": "ibb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.19%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "98.15%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.93%",
-    "time": 994,
-    "timeDay": 1134,
-    "timeWeek": 1023,
-    "timeMonth": 1130,
-    "timeYear": 1036,
+    "time": 995,
+    "timeDay": 1240,
+    "timeWeek": 1055,
+    "timeMonth": 1136,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2026-02-04": 22,
       "2026-06-27": 24,
@@ -279,7 +279,7 @@
       "2026-07-26": 73,
       "2026-08-02": 149,
       "2026-08-07": 29,
-      "2026-08-08": 5
+      "2026-08-08": 9
     }
   },
   {
@@ -345,16 +345,16 @@
     "url": "https://www.baeren-marbach.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.baeren-marbach.de.ico",
     "slug": "baeren-marbach",
-    "status": "down",
+    "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "97.25%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "94.91%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "98.09%",
-    "time": 812,
-    "timeDay": 756,
-    "timeWeek": 772,
-    "timeMonth": 789,
+    "time": 813,
+    "timeDay": 834,
+    "timeWeek": 785,
+    "timeMonth": 793,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2025-08-13": 17,
@@ -425,7 +425,7 @@
       "2026-08-05": 35,
       "2026-08-06": 47,
       "2026-08-07": 24,
-      "2026-08-08": 1
+      "2026-08-08": 5
     }
   },
   {
