@@ -261,17 +261,17 @@
     "url": "https://ibb-woern.de",
     "icon": "https://icons.duckduckgo.com/ip3/ibb-woern.de.ico",
     "slug": "ibb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.94%",
-    "time": 997,
-    "timeDay": 1176,
-    "timeWeek": 1103,
-    "timeMonth": 1138,
-    "timeYear": 1037,
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.93%",
+    "time": 998,
+    "timeDay": 1215,
+    "timeWeek": 1123,
+    "timeMonth": 1143,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2026-02-04": 22,
       "2026-06-27": 24,
@@ -279,7 +279,7 @@
       "2026-07-26": 73,
       "2026-08-02": 149,
       "2026-08-07": 29,
-      "2026-08-09": 1
+      "2026-08-09": 33
     }
   },
   {
