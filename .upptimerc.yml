@@ -7,36 +7,22 @@ sites:
     url: https://www.datenwerkbank.de
   - name: Manuel Deutsch
     url: https://www.manuel-deutsch.de
-  - name: Uplift Founders
-    url: https://upliftfounders.com
   - name: Kinder & Klinik
     url: https://www.kinder-und-klinik.de
   - name: Kaarisma
     url: https://www.kaarisma.de
-  - name: Fingolex
-    url: https://fingolex.com
-  - name: IBB
-    url: https://ibb-woern.de
   - name: Karlsruher Kind
     url: https://www.karlsruher-kind.de
-  - name: Bären Marbach
-    url: https://www.baeren-marbach.de
-  - name: Gruber
-    url: https://www.gruberundkollegen.de
-  - name: Immodera
-    url: https://immodera.de
   - name: Akademie
     url: https://www.akademie-lernpaedagogik.de
-  - name: Jutekontor
-    url: https://jutekontor.de
-  - name: Hbeat
-    url: https://hbeat.de
   - name: Kern
     url: https://kern-weine.de
   - name: hailteam
     url: https://www.hailteam.de
   - name: studio sodele
     url: https://www.studiosodele.de
+  - name: Praxis kranaster
+    url: https://www.praxis-kranaster.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
