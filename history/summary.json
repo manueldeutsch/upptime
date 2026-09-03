@@ -4,19 +4,18 @@
     "url": "https://www.datenwerkbank.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.datenwerkbank.de.ico",
     "slug": "datenwerkbank",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.06%",
-    "time": 1128,
+    "time": 1129,
     "timeDay": 1106,
     "timeWeek": 1115,
     "timeMonth": 1004,
     "timeYear": 1114,
     "dailyMinutesDown": {
-      "2026-02-17": 33,
       "2026-02-23": 47,
       "2026-02-25": 77,
       "2026-02-28": 49,
@@ -61,7 +60,8 @@
       "2026-07-04": 63,
       "2026-07-25": 54,
       "2026-09-01": 25,
-      "2026-09-02": 26
+      "2026-09-02": 26,
+      "2026-09-03": 25
     }
   },
   {
@@ -69,11 +69,11 @@
     "url": "https://www.manuel-deutsch.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.manuel-deutsch.de.ico",
     "slug": "manuel-deutsch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.13%",
     "time": 1486,
     "timeDay": 1610,
@@ -81,7 +81,6 @@
     "timeMonth": 1529,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2026-02-17": 33,
       "2026-02-23": 47,
       "2026-02-25": 77,
       "2026-02-28": 49,
@@ -126,7 +125,8 @@
       "2026-07-04": 58,
       "2026-07-25": 49,
       "2026-09-01": 20,
-      "2026-09-02": 21
+      "2026-09-02": 21,
+      "2026-09-03": 20
     }
   },
   {
@@ -134,11 +134,11 @@
     "url": "https://www.kinder-und-klinik.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.kinder-und-klinik.de.ico",
     "slug": "kinder-and-klinik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.21%",
     "time": 944,
     "timeDay": 1064,
@@ -146,7 +146,6 @@
     "timeMonth": 964,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2026-02-16": 17,
       "2026-02-17": 33,
       "2026-02-25": 77,
       "2026-02-28": 49,
@@ -191,7 +190,8 @@
       "2026-07-25": 45,
       "2026-08-20": 46,
       "2026-09-01": 16,
-      "2026-09-02": 16
+      "2026-09-02": 16,
+      "2026-09-03": 15
     }
   },
   {
@@ -302,11 +302,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kern-weine.de.ico",
     "slug": "kern",
     "status": "up",
-    "uptime": "97.32%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.33%",
     "time": 2136,
     "timeDay": 1779,
     "timeWeek": 1864,
@@ -366,11 +366,11 @@
     "url": "https://www.hailteam.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.hailteam.de.ico",
     "slug": "hailteam",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "98.85%",
     "time": 1000,
     "timeDay": 1444,
@@ -402,7 +402,8 @@
       "2026-07-03": 37,
       "2026-07-04": 39,
       "2026-07-25": 20,
-      "2026-08-20": 42
+      "2026-08-20": 42,
+      "2026-09-03": 10
     }
   },
   {
@@ -410,11 +411,11 @@
     "url": "https://www.studiosodele.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.studiosodele.de.ico",
     "slug": "studio-sodele",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.02%",
     "time": 1032,
     "timeDay": 1118,
@@ -444,7 +445,8 @@
       "2026-06-24": 40,
       "2026-07-03": 32,
       "2026-07-04": 34,
-      "2026-07-25": 16
+      "2026-07-25": 16,
+      "2026-09-03": 6
     }
   },
   {
@@ -452,10 +454,10 @@
     "url": "https://www.praxis-kranaster.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.praxis-kranaster.de.ico",
     "slug": "praxis-kranaster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1174,
@@ -463,6 +465,8 @@
     "timeWeek": 1219,
     "timeMonth": 1174,
     "timeYear": 1174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-03": 1
+    }
   }
 ]
