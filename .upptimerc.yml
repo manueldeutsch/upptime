@@ -29,6 +29,8 @@ sites:
     url: https://lehner-coaching.ch
   - name: Pyrum
     url: https://www.pyrum.net
+  - name: Kanzlei
+    url: https://www.kanzleisieben.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
